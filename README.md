@@ -8,7 +8,7 @@ Demonstrar construção de API profissional: modelagem de dados, CRUD,
 autenticação, validação e containerização.
 
 ## 🛠️ Tecnologias
-- Python 3.11 + FastAPI
+- Python 3.12 + FastAPI
 - SQLAlchemy (ORM)
 - PostgreSQL 16
 - Docker + Docker Compose
